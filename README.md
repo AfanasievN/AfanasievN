@@ -1,6 +1,6 @@
-# Hi, I'm Nikita Afanasiev 👋
+# Nikita Afanasiev — Head of Mobile, React Native & AI Frontend Developer
 
-**Head of Mobile · Engineering Manager · React Native & AI Frontend Developer**
+**Engineering Manager · Mobile Architect · React Native Consultant · AI-assisted Frontend Engineering**
 
 I build mobile and frontend products, engineering teams, and platform capabilities that scale. My
 background combines hands-on React Native, React, Next.js, and native development with architecture,
@@ -64,7 +64,7 @@ hardware, locale, application, and runtime signals—without assigning a client-
 [![CI](https://github.com/AfanasievN/react-native-device-risk-signals/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AfanasievN/react-native-device-risk-signals/actions/workflows/ci.yml)
 [![license](https://img.shields.io/badge/license-MIT-006D77)](https://github.com/AfanasievN/react-native-device-risk-signals/blob/main/LICENSE)
 
-## How I can help
+## React Native and AI frontend consulting
 
 - Audit or design a React Native application and mobile platform architecture
 - Build an AI-enabled frontend prototype or production React / Next.js application
@@ -76,4 +76,22 @@ hardware, locale, application, and runtime signals—without assigning a client-
 
 If you are building a mobile or AI-enabled frontend product and need experienced engineering help,
 [send me a message](https://t.me/afanasievn) or connect with me on
+[LinkedIn](https://www.linkedin.com/in/afanasievn/).
+
+## Quick answers
+
+### What does Nikita Afanasiev specialize in?
+
+React Native architecture, mobile platform engineering, AI frontend development, engineering
+leadership, DevSecOps, CI/CD, native SDK integrations, and reliable product delivery.
+
+### What types of projects can Nikita help with?
+
+React Native and native mobile applications, React and Next.js frontends, AI-enabled product
+experiences, mobile platform modernization, performance and stability, and release automation.
+
+### Is Nikita available for consulting or collaboration?
+
+Yes. I am open to React Native, mobile architecture, AI frontend, engineering leadership, and
+product-delivery consulting. Contact me through [Telegram](https://t.me/afanasievn) or
 [LinkedIn](https://www.linkedin.com/in/afanasievn/).
