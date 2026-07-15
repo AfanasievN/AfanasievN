@@ -1,24 +1,38 @@
 # Hi, I'm Nikita Afanasiev 👋
 
-**Engineering Manager · Team Lead · React Native Developer**
+**Head of Mobile · Engineering Manager · React Native Architect**
 
-I build and lead the delivery of reliable mobile products, with a focus on React Native,
-native integrations, application architecture, performance, security, and release engineering.
+I build mobile products, engineering teams, and platform capabilities that scale. My background
+combines hands-on React Native and native development with architecture, delivery systems,
+DevSecOps, and engineering leadership.
 
-> **Open to collaboration and consulting.** I can help your team design, build, stabilize, or
-> ship a React Native application—from technical direction to production delivery.
+> **Open to consulting and collaboration.** I help teams launch, scale, stabilize, or modernize
+> React Native products—from technical strategy and architecture to production delivery.
 
 [Discuss a project](https://t.me/afanasievn) ·
 [LinkedIn](https://www.linkedin.com/in/afanasievn/) ·
 [Straus](https://www.straus.md/)
 
-## What I work on
+## Selected impact
 
-- React Native architecture and native Android/iOS integrations
-- Engineering leadership, team processes, and delivery systems
-- Mobile performance, reliability, security, and observability
-- CI/CD, App Store and Google Play release automation
-- Open-source developer tools and reusable mobile infrastructure
+- **8+ years with React Native**, from hands-on development to Head of Mobile
+- Led and developed a mobile engineering organization of **10+ engineers**
+- Helped launch and scale products across **5+ international markets**
+- Contributed to mobile products serving **2M+ users**, including an Android app with **1M+ installs**
+- Built a shared mobile platform, monorepo, reusable libraries, and standardized delivery workflows
+- Introduced Mobile DevSecOps, CI/CD, GitOps, Release Train, observability, and release automation
+
+## What I focus on
+
+- **Mobile architecture:** React Native platforms, monorepos, native Android/iOS modules, SDK integrations
+- **Engineering leadership:** strategy, hiring, mentoring, career development, and team effectiveness
+- **Delivery at scale:** CI/CD, Mobile GitOps, release management, quality gates, and automation
+- **Security and reliability:** Secure SDLC, SAST, dependency analysis, observability, and performance
+- **Platform engineering:** shared libraries, Backend for Frontend, API orchestration, and developer experience
+- **AI-assisted engineering:** practical workflows that reduce lead time without compromising quality
+
+I have worked across fintech, BNPL, digital lending, marketplaces, food delivery, field service,
+and content products—from early-stage MVPs to multi-market platforms.
 
 ## Featured open source
 
@@ -34,12 +48,13 @@ hardware, locale, application, and runtime signals—without assigning a client-
 
 ## How I can help
 
-- Review or design a React Native application architecture
-- Integrate native SDKs and platform capabilities
+- Audit or design a React Native application and mobile platform architecture
+- Migrate from Expo or legacy stacks to a scalable native workflow
+- Integrate native SDKs, analytics, observability, security, and platform capabilities
 - Diagnose performance, stability, build, or release problems
-- Establish CI/CD and dependable mobile release workflows
-- Support a team with technical leadership and hands-on delivery
+- Establish CI/CD, DevSecOps, and dependable App Store / Google Play release processes
+- Support engineering teams with technical leadership and hands-on delivery
 
-If you are building a mobile product and need experienced React Native help,
+If you are building a mobile product and need experienced React Native or mobile engineering help,
 [send me a message](https://t.me/afanasievn) or connect with me on
 [LinkedIn](https://www.linkedin.com/in/afanasievn/).
