@@ -9,7 +9,7 @@ native integrations, application architecture, performance, security, and releas
 > ship a React Native application—from technical direction to production delivery.
 
 [Discuss a project](https://t.me/afanasievn) ·
-[LinkedIn](https://www.linkedin.com/in/nichitaafanasiev/) ·
+[LinkedIn](https://www.linkedin.com/in/afanasievn/) ·
 [Straus](https://www.straus.md/)
 
 ## What I work on
@@ -42,4 +42,4 @@ hardware, locale, application, and runtime signals—without assigning a client-
 
 If you are building a mobile product and need experienced React Native help,
 [send me a message](https://t.me/afanasievn) or connect with me on
-[LinkedIn](https://www.linkedin.com/in/nichitaafanasiev/).
+[LinkedIn](https://www.linkedin.com/in/afanasievn/).
