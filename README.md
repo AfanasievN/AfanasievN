@@ -14,6 +14,21 @@ and engineering leadership.
 [Discuss a project](https://t.me/afanasievn) ·
 [LinkedIn](https://www.linkedin.com/in/afanasievn/) ·
 
+## Expertise
+
+[![React Native Developer](https://img.shields.io/badge/React%20Native-Developer-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/topics/react-native)
+[![AI Mobile Developer](https://img.shields.io/badge/AI%20Mobile-Developer-006D77?style=flat-square)](https://github.com/topics/mobile-ai)
+[![AI Frontend Developer](https://img.shields.io/badge/AI%20Frontend-Developer-C95736?style=flat-square)](https://github.com/topics/ai-frontend)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/topics/typescript)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/topics/nextjs)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/topics/ios)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/topics/android)
+[![Mobile Architecture](https://img.shields.io/badge/Mobile-Architecture-4A5568?style=flat-square)](https://github.com/topics/mobile-architecture)
+[![Engineering Management](https://img.shields.io/badge/Engineering-Management-6B5B95?style=flat-square)](https://github.com/topics/engineering-management)
+[![DevSecOps](https://img.shields.io/badge/DevSecOps-8B0000?style=flat-square)](https://github.com/topics/devsecops)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-3A7D44?style=flat-square)](https://github.com/topics/continuous-integration)
+[![Agent-assisted Delivery](https://img.shields.io/badge/Agent--assisted-Delivery-6F42C1?style=flat-square)](https://github.com/topics/artificial-intelligence)
+
 ## Selected impact
 
 - **8+ years with React Native**, from hands-on development to Head of Mobile
