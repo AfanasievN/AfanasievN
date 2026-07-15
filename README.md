@@ -13,7 +13,6 @@ and engineering leadership.
 
 [Discuss a project](https://t.me/afanasievn) ·
 [LinkedIn](https://www.linkedin.com/in/afanasievn/) ·
-[Straus](https://www.straus.md/)
 
 ## Selected impact
 
