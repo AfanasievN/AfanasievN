@@ -1,6 +1,6 @@
 # Nikita Afanasiev — Head of Mobile & Engineering Manager
 
-**React Native Developer · AI Mobile Developer · Full-stack Developer · Node.js Backend Developer**<br />
+**React Native Developer · AI Mobile Developer · Full-stack Developer · AI Backend Developer**<br />
 **Mobile Architect · AI Frontend Developer**
 
 As an Engineering Manager, React Native Developer, and AI Mobile Developer, I build mobile and
